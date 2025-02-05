@@ -15,6 +15,8 @@
 
 3. Core Words Database is comprehensive and regularly updated.
 
+4. The client has a limited budget.
+
 # Data Strategy
 
 - Collect core/basic vocabulary and word groups.
